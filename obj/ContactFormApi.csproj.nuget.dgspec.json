@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi/ContactFormApi.csproj": {}
+    "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi.csproj": {}
   },
   "projects": {
-    "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi/ContactFormApi.csproj": {
+    "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi/ContactFormApi.csproj",
+        "projectUniqueName": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi.csproj",
         "projectName": "ContactFormApi",
-        "projectPath": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi/ContactFormApi.csproj",
+        "projectPath": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi.csproj",
         "packagesPath": "/Users/maxfaria/.nuget/packages/",
-        "outputPath": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi/obj/",
+        "outputPath": "/Users/maxfaria/Documents/Projects/ContactFormApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maxfaria/.nuget/NuGet/NuGet.Config"

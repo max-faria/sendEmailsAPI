@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OteDm6J9syp/ryHmePD5v84nEv7t9iPGeWrqR1kvZ2IDYtfugG5YrL0gauHSxulQdO0euVa3ZVGupIf9YpOSgA==",
+  "dgSpecHash": "thTjhcZqtutLVHcy3qpKwIckh2iWPcnHtQZQ9FobzGoUCTEy1OHghHxkkQlZsZNJ8VF8pmcvWaltGuCjiT+lvQ==",
   "success": true,
-  "projectFilePath": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi/ContactFormApi.csproj",
+  "projectFilePath": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi.csproj",
   "expectedPackageFiles": [
     "/Users/maxfaria/.nuget/packages/amazon.lambda.apigatewayevents/2.7.0/amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512",
     "/Users/maxfaria/.nuget/packages/amazon.lambda.applicationloadbalancerevents/2.2.0/amazon.lambda.applicationloadbalancerevents.2.2.0.nupkg.sha512",
@@ -124,5 +124,16 @@
     "/Users/maxfaria/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/Users/maxfaria/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MimeKit' 4.6.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-gmc6-fwg3-75m5",
+      "libraryId": "MimeKit",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

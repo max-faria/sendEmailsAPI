@@ -6422,11 +6422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi/ContactFormApi.csproj",
+      "projectUniqueName": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi.csproj",
       "projectName": "ContactFormApi",
-      "projectPath": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi/ContactFormApi.csproj",
+      "projectPath": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi.csproj",
       "packagesPath": "/Users/maxfaria/.nuget/packages/",
-      "outputPath": "/Users/maxfaria/Documents/Projects/ContactFormApi/ContactFormApi/obj/",
+      "outputPath": "/Users/maxfaria/Documents/Projects/ContactFormApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/maxfaria/.nuget/NuGet/NuGet.Config"
@@ -6517,5 +6517,17 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MimeKit' 4.6.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-gmc6-fwg3-75m5",
+      "libraryId": "MimeKit",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
